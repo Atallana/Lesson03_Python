@@ -1,8 +1,8 @@
 from address import Address
 from mailing import Mailing
 
-to_address = Address(postcode='123567', city='Saint_Petersberg', street='Nevsky_Prospekt', building='10', apartment='4'),
-from_address = Address(postcode='123456', city='Petrozavodsk', street='Lenina_Avenue', building='30', apartment='1'),
+to_address = Address(postcode='123567', city='Saint_Petersberg', street='Nevsky_Prospekt', building='10', apartment='4')
+from_address = Address(postcode='123456', city='Petrozavodsk', street='Lenina_Avenue', building='30', apartment='1')
 cost = 1240
 track = '12334455'
 
